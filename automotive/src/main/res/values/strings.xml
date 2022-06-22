@@ -2,4 +2,32 @@
     <string name="app_name">RadioAuto</string>
     <string name="Play">Play</string>
     <string name="button">Button</string>
+    <string name="nav_bar_menu_home">Home</string>
+    <string name="nav_bar_menu_search">Search</string>
+    <string name="nav_bar_menu_favorites">Favorites</string>
+    <string name="best_podcasts_label">Best podcasts</string>
+    <string name="comedy_podcasts_label">Comedy</string>
+    <string name="business_podcasts_label">Business</string>
+    <string name="health_podcasts_label">Health</string>
+    <string name="podcasts_loading_label">Loading…</string>
+    <string name="episodes_label">Episodes</string>
+    <string name="play_the_episode_content_description">Play the episode</string>
+    <string name="notification_channel_name">Audio Controls</string>
+    <string name="notification_channel_description">Display notification with audio controls and episode information</string>
+    <string name="favorites_your_best_label">Your best…</string>
+    <string name="search_hint">Search for podcasts</string>
+    <string name="search_your_desires_label">Your desires…</string>
+    <string name="no_results_found_label">No results found</string>
+    <string name="try_different_keywords_label">Try different keywords</string>
+    <string name="episode_thumbnail_content_description">Episode thumbnail</string>
+    <string name="podcast_thumbnail_content_description">Podcast thumbnail</string>
+    <string name="podcast_website_button_content_description">Podcast\'s website</string>
+    <string name="search_icon_content_description">Search icon</string>
+    <string name="dismiss_search_button_content_description">Dismiss search button</string>
+    <string name="clear_query_button_content_description">Clear query button</string>
+    <string name="play_previous_episode">Click to play</string>
+    <string name="listen_notes_watermark_content_description">Listen notes watermark</string>
+    <string name="no_input_search_error_message">Please enter some data</string>
+    <string name="todo"></string>
+
 </resources>

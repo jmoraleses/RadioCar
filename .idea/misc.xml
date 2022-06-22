@@ -3,7 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/drawable/ic_launcher_background.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2717948717948718" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/drawable/ic_notification_pause.xml" value="0.2760416666666667" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/drawable/ic_notification_play.xml" value="0.2760416666666667" />
         <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/activity_main.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/activity_player.xml" value="0.303125" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/blue_podcast_widget.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/controller_layout.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/episode_list_item.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/favorite_list_item.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/fragment_favorites.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/fragment_search.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/podcast_icon_list_item.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/layout/podcast_row_list_item.xml" value="0.24427083333333333" />
+        <entry key="..\:/Users/Javier/AndroidStudioProjects/RadioAuto/automotive/src/main/res/menu/bottom_nav_menu.xml" value="0.24427083333333333" />
       </map>
     </option>
   </component>
