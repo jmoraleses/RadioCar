@@ -5,61 +5,38 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#062A4E"
+    android:backgroundTint="#062A4D"
+    android:foregroundTint="#062A4D"
     tools:context=".MainActivity"
-    tools:ignore="MissingClass">
+    android:background="@android:color/white"
+    >
 
-
-    <de.hdodenhof.circleimageview.CircleImageView
-        android:id="@+id/episode_thumbnail"
-        android:layout_width="260dp"
-        android:layout_height="260dp"
-        android:background="@drawable/intereconomia"
-        android:contentDescription="@string/episode_thumbnail_content_description"
-        app:civ_border_color="@color/light_blue_900"
-        app:civ_border_width="2dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.089"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.635" />
-
-    <TextView
-        android:id="@+id/episode_title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="24dp"
-        android:layout_marginEnd="24dp"
-        android:ellipsize="end"
-        android:gravity="center"
-        android:maxLines="2"
-        android:textColor="@android:color/white"
-        android:textSize="24sp"
-        app:layout_constraintBottom_toTopOf="@+id/episode_thumbnail"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.225"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.551"
-        tools:ignore="MissingConstraints"
-        tools:text="Radio Intereconomía | Actualidad Económica y Negocios" />
 
     <ImageButton
         android:id="@id/exo_play"
         style="@style/ExoMediaButton.Play"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="7dp"
-        android:scaleX="2"
-        android:scaleY="2"
-        android:src="@android:drawable/ic_media_play"
+        android:layout_marginEnd="175dp"
+        android:scaleX="5"
+        android:scaleY="5"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.272"
-        app:layout_constraintStart_toEndOf="@+id/episode_thumbnail"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.521"
-        app:tint="@color/white" />
+        app:layout_constraintVertical_bias="0.498"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="377dp"
+        android:layout_height="316dp"
+        android:src="@drawable/intereconomia"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/exo_play"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.494" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

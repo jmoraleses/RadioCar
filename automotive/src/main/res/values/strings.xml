@@ -28,6 +28,7 @@
     <string name="play_previous_episode">Click to play</string>
     <string name="listen_notes_watermark_content_description">Listen notes watermark</string>
     <string name="no_input_search_error_message">Please enter some data</string>
-    <string name="todo"></string>
+    <string name="title">Radio Intereconomía</string>
+    <string name="subtitle">Actualidad Económica y Negocios</string>
 
 </resources>
